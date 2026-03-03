@@ -43,9 +43,9 @@ Enfin, un client peut recommander un autre client lors de son inscription.
 
 Modification :
 ============
-Chaque produit appartient à une seule catégorie de produit
-Chaque fournisseur appartient à une seule catégorie de fournisseur
-Une commande peut avoir une facture
+Chaque produit appartient à une seule catégorie de produit  
+Chaque fournisseur appartient à une seule catégorie de fournisseur  
+Une commande peut avoir une facture  
 Un client peut avoir une carte de fidélité
 
 Définition de la cardinalité : 
